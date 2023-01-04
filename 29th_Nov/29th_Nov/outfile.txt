@@ -1,0 +1,3 @@
+S20,Samsung
+E30,Motorala
+9T,Asus
